@@ -1,6 +1,3 @@
-knowledge
-=========
-
 ## Google Charts -- corechart packages离线版使用方法 ##
 
 配置需要使用两个文件，api.js 和 tooltip.css
